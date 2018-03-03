@@ -3,8 +3,8 @@ def display_board
  row = [" ","| |"," "]
  dash = "-----------"
  print row
- print dash
+ puts dash
  print row
- print dash
+ puts dash
  print row
 end
